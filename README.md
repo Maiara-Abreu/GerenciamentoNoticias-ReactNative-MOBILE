@@ -1,0 +1,1 @@
+# GerenciamentoNoticias-ReactNative-MOBILE
